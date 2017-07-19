@@ -2,6 +2,8 @@
 
 counts the files with extension types, and total files in the directory and subdirectories it is placed in.
 
+to use, place this file in a directory and run. (or type `python py.py` in your cli)
+
 
 
 
